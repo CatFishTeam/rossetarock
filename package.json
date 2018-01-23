@@ -1,5 +1,9 @@
 {
   "scripts": {
     "cypress:open": ".\\node_modules\\.bin\\cypress open"
+  },
+  "dependencies": {
+    "cypress": "^1.4.1",
+    "dotenv": "^4.0.0"
   }
 }
